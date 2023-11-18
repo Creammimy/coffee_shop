@@ -1,0 +1,33 @@
+[
+    {
+      "name": "Americano",
+      "price": 50,
+      "image": "lib/images/americano.png"
+    },
+    {
+      "name": "Cappuccino",
+      "price": 55,
+      "image": "lib/images/cappuccino.png"
+    },
+    {
+      "name": "Caramal Macchiato",
+      "price": 65,
+      "image": "lib/images/Caramel Macchiato.png"
+    },
+    {
+      "name": "Espresso",
+      "price": 50,
+      "image": "lib/images/espresso.png"
+    },
+    {
+      "name": "Latte",
+      "price": 55,
+      "image": "lib/images/latte.png"
+    },
+    {
+      "name": "Mocha",
+      "price": 55,
+      "image": "lib/images/mocha.png"
+    }
+  ]
+  
